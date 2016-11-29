@@ -1,0 +1,230 @@
+
+header{ 
+    background-image: url(imagem/imagemcss.jpg);
+          width: 1330px;
+          height: 325px;
+     border-radius:5px;
+}
+article{
+    float:left;
+
+    background-image: url(imagem/asfaltocss.jpg);
+          width: 980px;
+          height: 982px;
+    border-radius:5px;
+   margin-top: 20px;
+}
+body{
+    background:yellow;
+}
+aside {
+    float:left;
+   margin:20px;
+    background-image: url(imagem/ros2.jpg);
+          width: 310px;
+          height: 982px;
+        border-radius:5px;
+    color:red;
+
+}
+footer>{
+
+     background-image: url(imagem/rodape.jpg)
+          width: 868px;
+          height: 103px;
+        border-radius:5px;
+        clear:both;
+}
+article{
+    font-size: 25px;
+    font-style: arial black;
+    color:red;
+}
+.home{
+    position: absolute;
+    top:270;
+    left:50;
+    font-size: 25px;
+}
+.pilotos{
+    position: absolute;
+    top:270;
+    left:150;
+    font-size: 25px;
+}
+.equipes{
+    position: absolute;
+    top:270;
+    left:275;
+    font-size: 25px;
+}
+
+.resultados{
+    position: absolute;
+    top:270;
+    left:405;
+    font-size: 25px;
+}
+.classificação{
+    position: absolute;
+    top:270;
+    left:660;
+    font-size: 25px;
+}
+.corridas{
+    position: absolute;
+    top:270;
+    left:840;
+    font-size: 25px;
+}
+.campeoes{
+    position: absolute;
+    top:270;
+    left:1080;
+    font-size: 25px;
+}
+.regras{
+    position: absolute;
+    top:640;
+    left:1135;
+    font-size: 25px;
+}
+.faleconosco{    
+    position: absolute;
+    top:570;
+    left:1115;
+    font-size: 25px;    
+}
+
+.adm{    
+    position: absolute;
+    top:500;
+    left:1095;
+    font-size: 25px;    
+}
+
+.opiniao{    
+    position: absolute;
+    top:430;
+    left:1070;
+    font-size: 25px;    
+}
+
+.sair{    
+    position: absolute;
+    top:710;
+    left:1140;
+    font-size: 25px;    
+}
+
+
+h3 {color:red;
+font-size: 20px;}
+
+h2{
+    color:red;
+    font-size:27;
+}
+h5{
+    position: absolute;
+    top:1298px;
+    font-size:18px;
+    left:775px;
+    color:greenyellow;
+}
+
+
+#form1 {
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 30px;
+    max-width: 1000px;
+    position: absolute;
+    top:600px;
+    left:250px;    
+}
+table{
+    color:red;
+    position: absolute;
+    top:500px;
+    left:200px;
+}
+
+#cadastro{
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 30px;
+    max-width: 1000px;
+    position: absolute;
+    top:650px;
+    left:250px;    
+}
+
+#dados{
+    position: absolute;
+    top:530px;
+    left:430px;
+    color: red;
+    font-size: 22px;
+}
+
+
+
+#opiniao{
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 25px;
+    max-width: 1000px;
+    position: absolute;
+    top:600px;
+    left:200px;    
+}
+
+#linksUsuario{
+    font-family: fantasy;
+    font-size: 25px;
+    max-width: 1000px;
+    position: absolute;
+    top:370px;
+    left:1060px;    
+}
+
+#login{
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 25px;
+    max-width: 1000px;
+    position: absolute;
+    top:600px;
+    left:400px;    
+}
+
+#titulo{
+    position: absolute;
+    left:300px;    
+}
+#pilotos{
+    position: absolute;
+    left:200px; 
+    font-size: 25px;
+}
+
+#equipes{
+    position: absolute;
+    left:200px;    
+}
+#titulo{
+    position: absolute;
+    left:320px;    
+}
+#corridas{
+    position: absolute;
+    left:320px;    
+}
+#formcrud{
+    position: absolute;
+    left:320px;  
+    top:600px;
+}
+#crudadm{
+    position: absolute;
+    left:320px;  
+    top:600px;
+    font-family: fantasy;
+}
